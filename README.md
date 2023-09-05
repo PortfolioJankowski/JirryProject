@@ -1,5 +1,5 @@
 # JirryProject
- JIRRY is a dynamic project management application built with Delphi, designed for efficient project
+ JIRRY is a dynamic project management application built with Delphi, designed for efficient project.
 
 JIRRY is a dynamic project management application built with Delphi, designed for efficient project
 organization and collaboration. It seamlessly connects to a relational database (mngDB) that houses
@@ -19,6 +19,8 @@ dedicated database tables, preserving a comprehensive history.
 JIRRY arose from the necessity for a more efficient project management solution during my
 professional journey. It's a testament to my commitment to streamlining workflows and fostering
 collaboration.
+
+You can see in Screenshots file how it looks like.
 
 Author: Mateusz Jankowski
 Email: mat.jankowski99@gmail.com
